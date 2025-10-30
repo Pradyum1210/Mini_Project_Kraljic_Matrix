@@ -32,18 +32,7 @@ This dataset represents various items or suppliers with attributes related to **
 
 ---
 
-## ⚙️ Technologies and Libraries Used
-This project is implemented in **Python (Jupyter Notebook)** and uses the following libraries:
 
-```python
-import pandas as pd
-import numpy as np
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.naive_bayes import GaussianNB
-from sklearn.linear_model import LogisticRegression
-from sklearn.svm import SVC
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report
 
 
 🚀 Project Workflow
